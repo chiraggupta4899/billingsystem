@@ -1,2 +1,0 @@
-should allow user to login.
-shoud add customer details.

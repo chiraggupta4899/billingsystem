@@ -10,6 +10,7 @@ def view_price():
 def create_bill():
     pass
 root=Tk()
+root.title("Employee Side")
 lms=1300
 bms=750
 root.minsize(lms,bms)
